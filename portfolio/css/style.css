@@ -110,8 +110,8 @@ header .navbar ul li a.active::before {
 }
 .home {
 	min-height: 100vh;
-	background-color: #000;
-	/*background-image: url("../images/main.jpg");*/
+	/*background-color: #000;*/
+	background-image: url("../images/main.jpg");
 	background-size: cover;
 	background-position: center;
 	overflow: hidden;
